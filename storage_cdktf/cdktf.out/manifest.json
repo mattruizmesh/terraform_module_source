@@ -1,0 +1,16 @@
+{
+  "stacks": {
+    "storage_cdktf": {
+      "annotations": [
+      ],
+      "constructPath": "storage_cdktf",
+      "dependencies": [
+      ],
+      "name": "storage_cdktf",
+      "stackMetadataPath": "stacks/storage_cdktf/metadata.json",
+      "synthesizedStackPath": "stacks/storage_cdktf/cdk.tf.json",
+      "workingDirectory": "stacks/storage_cdktf"
+    }
+  },
+  "version": "0.20.11"
+}
